@@ -1,0 +1,58 @@
+/* To Be Covered */
+* Build theme from scratch
+* ESNext for JavaScript
+* Babel
+* Sass
+* Webpack
+* OOP
+* Singleton
+* PHP Classes
+
+/* Features */
+* Registering Custom Menus
+* Editing the Default wordpress menus
+* Registering CPTs, taxonomies
+* Infinite Scroll
+* Pagination
+* Custom Page Template
+* Writing WP Quries
+* Blog Page
+* Archive
+* Post filters with load more
+* Creating customizer options
+* Working with user admin roles
+* Creating Theme option page
+* Using Owl Carousel
+* Creating custom widgets
+* Adding comment form
+* Adding related posts
+* Translation
+* Making Ajax requests
+* Using wordpress REST API
+
+
+18...
+
+****************************************************************************************
+****************************************************************************************
+
+* In wp-config.php, debug is enable, in production, disable it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
